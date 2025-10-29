@@ -1,0 +1,1 @@
+db.zaposleni.createIndex({broj_zaposlenih: 1}, {unique: 1})
